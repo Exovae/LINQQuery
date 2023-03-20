@@ -1,0 +1,15 @@
+C:\Users\ellio\source\repos\LINQQuery\LINQQuery\bin\Debug\net6.0\LINQQuery.exe
+C:\Users\ellio\source\repos\LINQQuery\LINQQuery\bin\Debug\net6.0\LINQQuery.deps.json
+C:\Users\ellio\source\repos\LINQQuery\LINQQuery\bin\Debug\net6.0\LINQQuery.runtimeconfig.json
+C:\Users\ellio\source\repos\LINQQuery\LINQQuery\bin\Debug\net6.0\LINQQuery.dll
+C:\Users\ellio\source\repos\LINQQuery\LINQQuery\bin\Debug\net6.0\LINQQuery.pdb
+C:\Users\ellio\source\repos\LINQQuery\LINQQuery\obj\Debug\net6.0\LINQQuery.csproj.AssemblyReference.cache
+C:\Users\ellio\source\repos\LINQQuery\LINQQuery\obj\Debug\net6.0\LINQQuery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\source\repos\LINQQuery\LINQQuery\obj\Debug\net6.0\LINQQuery.AssemblyInfoInputs.cache
+C:\Users\ellio\source\repos\LINQQuery\LINQQuery\obj\Debug\net6.0\LINQQuery.AssemblyInfo.cs
+C:\Users\ellio\source\repos\LINQQuery\LINQQuery\obj\Debug\net6.0\LINQQuery.csproj.CoreCompileInputs.cache
+C:\Users\ellio\source\repos\LINQQuery\LINQQuery\obj\Debug\net6.0\LINQQuery.dll
+C:\Users\ellio\source\repos\LINQQuery\LINQQuery\obj\Debug\net6.0\refint\LINQQuery.dll
+C:\Users\ellio\source\repos\LINQQuery\LINQQuery\obj\Debug\net6.0\LINQQuery.pdb
+C:\Users\ellio\source\repos\LINQQuery\LINQQuery\obj\Debug\net6.0\LINQQuery.genruntimeconfig.cache
+C:\Users\ellio\source\repos\LINQQuery\LINQQuery\obj\Debug\net6.0\ref\LINQQuery.dll
